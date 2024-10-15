@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🗣️ About Me:
 I'm a passionate software developer specializing in backend web applications using Django, desktop applications with C/C++ (primarily with Qt Framework), and Python for both automation and desktop apps. My current focus is on building scalable solutions for web and desktop platforms, while also exploring the vast potential of automation.
 
 One of my biggest aspirations is to dive deep into low-level programming, particularly in developing software for graphic cards, with a keen interest in NVIDIA technologies.
