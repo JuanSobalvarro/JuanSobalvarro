@@ -34,6 +34,9 @@ Here are some of the technologies and tools I actively work with:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanSobalvarro&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSobalvarro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 🧩 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JuanSobalvarro?theme=dark&font=Sans%20Serif&ext=heatmap)](https://leetcode.com/JuanSobalvarro)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JuanSobalvarro&icon=0&color=0)](https://visitcount.itsvg.in)
