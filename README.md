@@ -5,6 +5,9 @@ One of my biggest aspirations is to dive deep into low-level programming, partic
 
 Feel free to connect with me through my social platforms or explore some of the projects I’ve been working on below.
 
+## Portfolio:
+[Portfolio](https://juansobalvarro.github.io/portfolio/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-steve-sobalvarro-guerrero-2b9bbb326/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26459610) 
